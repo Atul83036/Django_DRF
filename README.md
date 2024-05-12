@@ -1,4 +1,4 @@
-# Implementing simple api's to model the [Trello](https://trello.com/) in  Django DRM with browsable api
+# Implementing simple api's to model the [Trello](https://trello.com/) in  Django DRF with browsable api
 
 ## Introduction
 Welcome to the project documentation for our Django Rest Framework (DRF) application with a browsable API! 
